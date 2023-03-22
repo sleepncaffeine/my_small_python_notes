@@ -1,3 +1,3 @@
-# SchoolPythonClassRecap
-학교 수업시간에 한 파이썬 수업을 정리할 레포지토리<br>
-Jupyter Notebook / Google Colab 으로 정리 예정
+# Small python notes
+파이썬 간단하게 정리
+colab환경에서 실행
